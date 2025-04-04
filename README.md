@@ -1,6 +1,7 @@
 # XGBoost Regression with Jupyter Notebook
 
 This project demonstrates how I used an XGBoost Regressor on advanced NBA statistics for predicting NBA playoff wins using Python in a Jupyter Notebook environment. It uses the [nba_api](https://github.com/swar/nba_api) client to extract the data needed for this project
+
 ##  Overview
 
 The notebook walks through the end-to-end process of:
@@ -15,7 +16,7 @@ The notebook walks through the end-to-end process of:
 
 ##  Technologies & Libraries
 
--[nba api](https://github.com/swar/nba_api)
+- [nba api](https://github.com/swar/nba_api)
 -  Python 3.9.19
 - Jupyter Notebook
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
